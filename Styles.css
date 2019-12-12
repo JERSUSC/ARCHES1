@@ -1,0 +1,108 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #e7decd;
+    padding: 100px;
+    color: #0a122a;
+}
+
+
+h1 {
+    color: #006494;
+    size: 80px;
+}
+
+h1 {
+
+    text-shadow: 5px 5px 7px #1b3b6f;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.experience-header {
+    font-size: 30px !important;
+    text-shadow: 5px 5px 7px #665231;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1,
+h2.by {
+    text-align: center;
+}
+
+h2.by {
+    color: #006494;
+   font-family: 'Merriweather Sans', sans-serif;
+}
+
+.member-header {
+    color: #263142;
+    font-size: 22px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.name-header {
+    color: #dcb000;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.mentor-header {
+    color: #263142;
+    font-size: 22px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.intro-header {
+    font-size: 17px;
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Muli', sans-serif;
+
+
+}
+
+.experience-header {
+    font-size: 25px;
+    color: #493b00;
+
+}
+
+.info0 {
+    font-family: 'Indie Flower', cursive;
+}
+
+.info1 {
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Muli', sans-serif;
+
+}
+
+.info2 {
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Muli', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    color: #4f3234;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-gap: 25px;
+
+    margin-bottom: 30px;
+}
+
+img {
+    width: 100%;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20;
+    text-shadow: 5px 5px 7px #1b3b6f;
+    
+}
